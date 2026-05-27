@@ -1,4 +1,4 @@
-html {
+/* html {
     font-family: 'Poppins', sans-serif;
 }
 
@@ -10,4 +10,15 @@ body {
 
 h3 {
     color: green;
+} */
+
+.formulario {
+    border: 1px solid black;
+    padding: 10px 15px 10px 15px;
+    border-radius: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
 }
