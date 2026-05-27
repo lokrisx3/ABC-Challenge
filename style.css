@@ -5,9 +5,13 @@ html {
 body {
     background-color: #8a8989;
     margin: 0;
-    padding: 0;
+    padding: 72px 0 0;
 }
 
 h3 {
     color: green;
+}
+
+.navbar-gris {
+    background-color: #d9d9d9;
 }
