@@ -1,5 +1,5 @@
 function aleatorio() {
-    let color = ["Azul", "Rojo", "Blanco"]
+    let color = ["Azul", "Rojo", "Verde"]
     let azar = Math.floor(Math.random() * color.length);
     let seleccion = color[azar]
     return seleccion;
@@ -11,7 +11,7 @@ let etiquetasH5 = document.querySelectorAll("h5");
 let coloresCss = {
     Azul: "blue",
     Rojo: "red",
-    Blanco: "white"
+    Verde: "green"
 };
 
 etiquetasH5.forEach(function (etiqueta) {
